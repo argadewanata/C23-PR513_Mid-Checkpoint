@@ -1,0 +1,15 @@
+[submodule "Machine Learning"]
+	path = Machine Learning
+	url = https://github.com/argadewanata/ML-Bangkit-Capstone-Project
+[submodule "ML-Bangkit-Capstone-Project"]
+	path = ML-Bangkit-Capstone-Project
+	url = https://github.com/argadewanata/ML-Bangkit-Capstone-Project
+[submodule "bangkit-server-ml"]
+	path = bangkit-server-ml
+	url = https://github.com/ramamimu/bangkit-server-ml
+[submodule "bangkit-server-main"]
+	path = bangkit-server-main
+	url = https://github.com/ramamimu/bangkit-server-main
+[submodule "Capstone_Bangkit_NongkiApp"]
+	path = Capstone_Bangkit_NongkiApp
+	url = https://github.com/rahmands/Capstone_Bangkit_NongkiApp
