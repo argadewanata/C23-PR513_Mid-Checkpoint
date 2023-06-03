@@ -13,3 +13,6 @@
 [submodule "Capstone_Bangkit_NongkiApp"]
 	path = Capstone_Bangkit_NongkiApp
 	url = https://github.com/rahmands/Capstone_Bangkit_NongkiApp
+[submodule "container-ml-server"]
+	path = container-ml-server
+	url = https://github.com/ramamimu/container-ml-server
