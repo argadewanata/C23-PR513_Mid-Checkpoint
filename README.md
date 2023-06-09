@@ -4,7 +4,6 @@ A dedicated repository for mid checkpoint for Group C23-PR513. Originally, all t
 
 1. Machine Learning : https://github.com/argadewanata/ML-Bangkit-Capstone-Project
 2. Cloud Computing:  
-   ML : https://github.com/ramamimu/bangkit-server-ml  
-   Main : https://github.com/ramamimu/bangkit-server-main  
-   CI/CD ML server : https://github.com/ramamimu/container-ml-server
+   SQL server : https://github.com/ramamimu/bangkit-server-sql  
+   Auth server : https://github.com/ramamimu/bangkit-server-main  
 3. Mobile Development: https://github.com/rahmands/Capstone_Bangkit_NongkiApp
