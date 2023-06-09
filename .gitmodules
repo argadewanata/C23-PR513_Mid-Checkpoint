@@ -16,3 +16,6 @@
 [submodule "container-ml-server"]
 	path = container-ml-server
 	url = https://github.com/ramamimu/container-ml-server
+[submodule "bangkit-server-sql"]
+	path = bangkit-server-sql
+	url = https://github.com/ramamimu/bangkit-server-sql
